@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Mancala
-Final project for AI course
-=======
 # Mancala AI Project
 
 This project is a command-line simulation and gameplay implementation of the Mancala board game, featuring both human and AI players. It was developed as a final project for an AI course to explore search algorithms like Minimax and Alpha-Beta Pruning, as well as evaluate advanced heuristic-based decision-making.
