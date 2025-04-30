@@ -95,4 +95,4 @@ MIT License — free to use, modify, and distribute.
 
 ## Acknowledgements
 
-This project was completed as a final assignment for the University of Colorado Boulder CSCI 3022 AI course. It explores fundamental decision-making algorithms applied in game AI.
+This project was completed as a final assignment for the University of Colorado Boulder CSCI 3202 AI course. It explores fundamental decision-making algorithms applied in game AI.
